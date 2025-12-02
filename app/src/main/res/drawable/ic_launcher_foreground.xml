@@ -1,0 +1,55 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="1024"
+    android:viewportHeight="1024">
+  <path
+      android:pathData="M236,56L788,56A180,180 0,0 1,968 236L968,788A180,180 0,0 1,788 968L236,968A180,180 0,0 1,56 788L56,236A180,180 0,0 1,236 56z"
+      android:fillColor="#FCE9D9"/>
+  <path
+      android:pathData="M244,310L780,310A64,64 0,0 1,844 374L844,706A64,64 0,0 1,780 770L244,770A64,64 0,0 1,180 706L180,374A64,64 0,0 1,244 310z"
+      android:strokeLineJoin="round"
+      android:strokeWidth="70"
+      android:fillColor="#00000000"
+      android:strokeColor="#EC6B58"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M180,310H540L760,220"
+      android:strokeLineJoin="round"
+      android:strokeWidth="70"
+      android:fillColor="#00000000"
+      android:strokeColor="#EC6B58"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M260,230m-64,0a64,64 0,1 1,128 0a64,64 0,1 1,-128 0"
+      android:fillColor="#FCE9D9"/>
+  <path
+      android:pathData="M298,265m-28,0a28,28 0,1 1,56 0a28,28 0,1 1,-56 0"
+      android:fillColor="#FCE9D9"/>
+  <path
+      android:pathData="M380,470q18,-32 40,0"
+      android:strokeLineJoin="round"
+      android:strokeWidth="60"
+      android:fillColor="#00000000"
+      android:strokeColor="#EC6B58"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M620,470q18,-32 40,0"
+      android:strokeLineJoin="round"
+      android:strokeWidth="60"
+      android:fillColor="#00000000"
+      android:strokeColor="#EC6B58"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M360,610q160,150 320,0"
+      android:strokeLineJoin="round"
+      android:strokeWidth="60"
+      android:fillColor="#00000000"
+      android:strokeColor="#EC6B58"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M218,778L806,778A18,18 0,0 1,824 796L824,796A18,18 0,0 1,806 814L218,814A18,18 0,0 1,200 796L200,796A18,18 0,0 1,218 778z"
+      android:strokeAlpha="0.08"
+      android:fillColor="#000"
+      android:fillAlpha="0.08"/>
+</vector>
